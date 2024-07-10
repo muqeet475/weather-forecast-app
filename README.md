@@ -30,5 +30,6 @@ The Weather Forecast application provides current weather information based on t
    ```bash
    git clone https://github.com/muqeet475/weather-forecast-app.git
 
-   ![Screenshot 2024-07-10 134758](https://github.com/muqeet475/weather-forecast-app/assets/174495564/79c74168-d9d3-446d-9cca-02f67da00f61)
+  ![Screenshot 2024-07-10 134758](https://github.com/muqeet475/weather-forecast-app/assets/174495564/6702734b-e8c5-4386-801c-8128383fb66e)
+
 
