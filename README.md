@@ -1,9 +1,11 @@
-
-
-#### README for Weather Forecast Application
-
-```markdown
 # Weather Forecast Application
+
+## Developer Information
+**Name:** Abdul Muqeet Ansari  
+**Company:** CodTech IT Solution  
+**ID:** CT6WDS787  
+**Domain:** Web Development  
+**Duration:** 1 July to 15 August 2024  
 
 ## Overview
 
